@@ -1,6 +1,6 @@
 package chapter01
 
-class basic {
+class Basic {
     fun basic(){
         var name1 = "kotlin"
         var name2: String
